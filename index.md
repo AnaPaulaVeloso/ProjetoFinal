@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Donwload](https://github.com/AnaPaulaVeloso/ProjetoFinal)
+[Donwload](https://github.com/AnaPaulaVeloso/ProjetoFinal/archive/refs/heads/main.zip)
 
 You can use the [editor on GitHub](https://github.com/AnaPaulaVeloso/ProjetoFinal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
